@@ -1,5 +1,5 @@
 {
-  "name": "@szikszail/npm-package",
+  "name": "npm-package-template-6ai",
   "version": "0.0.1",
   "description": "This repository/project is a template/placeholder for new NPM packages.",
   "main": "index.js",
