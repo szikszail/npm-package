@@ -1,6 +1,6 @@
-# npm-package
+# @szikszail/npm-package
 
-![Downloads](https://img.shields.io/npm/dw/npm-package?style=flat-square) ![Version@npm](https://img.shields.io/npm/v/npm-package?label=version%40npm&style=flat-square) ![Version@git](https://img.shields.io/github/package-json/v/szikszail/npm-package/main?label=version%40git&style=flat-square) ![CI](https://img.shields.io/github/workflow/status/szikszail/npm-package/CI/main?label=ci&style=flat-square) ![Docs](https://img.shields.io/github/workflow/status/szikszail/npm-package/Docs/main?label=docs&style=flat-square)
+![Downloads](https://img.shields.io/npm/dw/@szikszail/npm-package?style=flat-square) ![Version@npm](https://img.shields.io/npm/v/@szikszail/npm-package?label=version%40npm&style=flat-square) ![Version@git](https://img.shields.io/github/package-json/v/szikszail/npm-package/main?label=version%40git&style=flat-square) ![CI](https://img.shields.io/github/workflow/status/szikszail/npm-package/CI/main?label=ci&style=flat-square) ![Docs](https://img.shields.io/github/workflow/status/szikszail/npm-package/Docs/main?label=docs&style=flat-square)
 
 This repository/project is a template/placeholder for new NPM packages.
 
